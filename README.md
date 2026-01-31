@@ -59,3 +59,6 @@ How does it work?
 
 # Author
 Nyxpher and the Nyx27 cipher were created by ItsMattsTheWolf.
+
+# Note
+If you find any errors or have any suggestions, please let us know!
